@@ -55,7 +55,8 @@
    
 }
 
-.card-6{
-border-radius: 5%;
-
-}
+ .card-6{
+    border: 3px solid rgb(45, 236, 236);
+    border-radius: 40px;
+    
+} 
